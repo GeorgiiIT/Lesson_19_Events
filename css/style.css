@@ -1,0 +1,19 @@
+body{
+	display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 100vw;
+   height: 100vh;
+   margin: 0;
+}
+
+.block{
+	display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 100px;
+   height: 100px;
+   background: black; 
+   position: relative;
+   color: white;
+}
